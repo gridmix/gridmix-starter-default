@@ -1,11 +1,11 @@
 {
   "private": true,
   "scripts": {
-    "develop": "gridsome develop",
-    "explore": "gridsome explore",
-    "build": "gridsome build"
+    "develop": "gridmix develop",
+    "explore": "gridmix explore",
+    "build": "gridmix build"
   },
   "dependencies": {
-    "gridsome": "^0.7.0"
+    "gridmix": "^0.7.0"
   }
 }
